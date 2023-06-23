@@ -1,0 +1,28 @@
+body {
+  background-image: url('background.png');
+}
+
+.container {
+    float:center;
+	margin: auto;
+}
+
+.content {
+    margin-top: 20px;
+    margin-left: 0px;
+	width:95%;
+	background:rgba(255,255,255,0.92);
+    float:center;
+    padding:30px; 
+}
+
+label {
+    margin-top: 10px;	
+}
+
+th, td {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 0px;
+  padding-right: 20px;
+}
